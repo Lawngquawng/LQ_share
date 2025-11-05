@@ -6,7 +6,7 @@ lq1.lqshare.io.vn
 https://github.com/Lawngquawng/LQ_share/releases/download/tunnel/6c7df1e9-718b-4fc3-a1cf-e72f437e1d1e.json
 lq2.lqshare.io.vn
 ebb4f000-df17-4655-8f6b-f9be3e2a5580
-
+https://github.com/Lawngquawng/LQ_share/releases/download/tunnel/ebb4f000-df17-4655-8f6b-f9be3e2a5580.json
 lq3.lqshare.io.vn
 
 lq4.lqshare.io.vn
